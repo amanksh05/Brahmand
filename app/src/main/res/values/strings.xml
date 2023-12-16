@@ -1,0 +1,58 @@
+<resources>
+
+<!--    Planets-->
+    <string name="app_name">Brahmand</string>
+    <string name="mercury">Mercury</string>
+    <string name="venus">Venus</string>
+    <string name="earth">Earth</string>
+    <string name="jupiter">Jupiter</string>
+    <string name="saturn">Saturn</string>
+    <string name="mars">Mars</string>
+    <string name="uranus">Uranus</string>
+    <string name="neptune">Neptune</string>
+
+<!--    Distance-->
+
+    <string name="distance_mercury">91.7 MM</string>
+    <string name="distance_venus">91.7 MM</string>
+    <string name="distance_earth">0 MM</string>
+    <string name="distance_mars">91.7 MM</string>
+    <string name="distance_jupiter">91.7 MM</string>
+    <string name="distance_saturn">91.7 MM</string>
+    <string name="distance_uranus">91.7 MM</string>
+    <string name="distance_neptune">91.7 MM</string>
+
+
+<!--    nickname-->
+
+    <string name="nickMercury">Swift Planet</string>
+    <string name="nickVenus">Morning Star</string>
+    <string name="nickEarth">The Blue Planet</string>
+    <string name="nickMars">The Red Planet</string>
+    <string name="nickJupiter">The Gas Giant</string>
+    <string name="nickSaturn">The Ringed Planet</string>
+    <string name="nickUranus">The Ice Giant</string>
+    <string name="nickNeptune">The Windy Planet</string>
+
+<!--    moons-->
+
+    <string name="moons_mercury">0</string>
+    <string name="moons_venus">0</string>
+    <string name="moons_earth">1</string>
+    <string name="moons_mars">2</string>
+    <string name="moons_jupiter">79</string>
+    <string name="moons_saturn">83</string>
+    <string name="moons_uranus">27</string>
+    <string name="moons_neptune">14</string>
+
+<!--    mass-->
+    <string name="mMercury">3.3*10^23 kg</string>
+    <string name="mVenus">3.3*10^23 kg</string>
+    <string name="mEarth">3.3*10^23 kg</string>
+    <string name="mMars">3.3*10^23 kg</string>
+    <string name="mJupiter">3.3*10^23 kg</string>
+    <string name="mSaturn">3.3*10^23 kg</string>
+    <string name="mUranus">3.3*10^23 kg</string>
+    <string name="mNeptune">3.3*10^23 kg</string>
+
+</resources>
